@@ -55,3 +55,48 @@ public class SLE
         }
     }
 }
+
+/* Test case 1 :
+
+Original matrix :
+
+1 1 -1 5
+0 1 -5 8
+0 0 1 -1
+
+Reduced matrix :
+
+
+*/
+
+/* Test case 2 :
+
+Original matrix :
+
+-3 -5 36 10
+-1 0 7 5
+1 1 -10 -4
+
+Reduced matrix :
+
+1 0 -7 -5 
+0 2 -3 1
+0 0 0 0
+
+*/
+
+/* Test case 3 :
+
+Original matrix :
+
+1 1 1 2
+0 1 -3 1
+2 1 5 0
+
+Reduced matrix :
+
+1 0 4 1
+0 1 -3 1
+0 0 0 -3
+
+*/
